@@ -69,9 +69,6 @@ Relying strictly on numbers without operational context can lead to misleading d
 
 ## Project Structure
 
-```text
-├── data/              # Cleaned datasets (or sample schemas)
-├── scripts/           # Python data cleaning scripts (Pandas/NumPy)
-├── sql/               # BigQuery SQL queries
-├── dashboard/         # Power BI screenshots (.pbix file)
-└── README.md          # Project documentation
+├── data_cleaning.py   # Python cleaning script (Pandas & NumPy)
+├── queries.sql        # BigQuery SQL queries
+└── README.md          # Project documentation & dashboard visuals
