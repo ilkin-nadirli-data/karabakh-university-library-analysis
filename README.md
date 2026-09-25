@@ -20,7 +20,7 @@ This project explores 2 years of book circulation, study room usage, and 1 year 
 
 ---
 <img width="1600" height="898" alt="image" src="https://github.com/user-attachments/assets/cb206183-98c5-4d6e-b7c9-79d5ebd77d94" />
-<img width="1600" height="898" alt="image" src="https://github.com/user-attachments/assets/2bf6c7d5-0480-4205-8d88-c51c5517c22e" />
+<img width="1369" height="767" alt="image" src="https://github.com/user-attachments/assets/af4cd537-f48b-44ab-805b-fca146df4ccf" />
 
 
 
